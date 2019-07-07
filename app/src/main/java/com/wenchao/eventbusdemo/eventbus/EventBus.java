@@ -1,4 +1,4 @@
-package com.wenchao.eventbusdemo;
+package com.wenchao.eventbusdemo.eventbus;
 
 import android.os.Handler;
 import android.os.Looper;
